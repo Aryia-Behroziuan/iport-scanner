@@ -24,7 +24,7 @@ import sys
 from datetime import datetime
 
 Step 2: >Download Iport-Scanner In Github
-Github.com/Aryia-Behroziuan
+https://codeload.github.com/Aryia-Behroziuan/iport-scanner/zip/main
 
 Step 3:>Runing Iport-Scanner
 Python Iport Scanner.py
